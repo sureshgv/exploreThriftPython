@@ -9,7 +9,7 @@ thrift -out pygen/ --gen py example.thrift
 ```
 
 ### Requirements
-* Python: `$ pip install -r requirements.txt`,
+* Python: `$ pip install -r requirements.txt`
 
 ### Run
 * Pyyhon Server: `$ ./additionServer.py`,
