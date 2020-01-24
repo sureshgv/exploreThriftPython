@@ -1,1 +1,2 @@
 thrift==0.11.0
+thriftpy2==0.4.10
